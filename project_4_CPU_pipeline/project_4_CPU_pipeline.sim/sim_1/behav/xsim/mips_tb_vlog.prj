@@ -1,0 +1,52 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_4_CPU_pipeline.srcs/datapath/3_2code.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/ALU_C.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Add_1.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Add_2.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Add_3.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/CMP.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Combine_BranchAddr.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/EX_MEM_REG.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Forwarding.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Hazard.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/ID_EX_REG.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/IF_ID_REG.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MEM_WB_REG.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX3_1.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX3_2.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_1.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_2.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_3.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_4.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_5.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_6.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_7.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_8.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/reg.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/SHL16.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/SHL2_2.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/alu.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/And.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/cmb_addr.v" \
+"../../../../project_4_CPU_pipeline.srcs/control/ctrl.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/dm.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/ext.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/im.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/pc.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/z_ext.v" \
+"../../../../project_4_CPU_pipeline.srcs/mips.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/Forwarding_id.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX3_4.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX3_3.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/DMExtend.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MAD.v" \
+"../../../../project_4_CPU_pipeline.srcs/datapath/MUX_9.v" \
+"../../../../project_4_CPU_pipeline.srcs/sim_1/new/mips_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
