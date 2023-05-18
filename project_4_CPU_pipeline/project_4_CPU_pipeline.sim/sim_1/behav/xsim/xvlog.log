@@ -1,0 +1,88 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/3_2code.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module coding3_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/ALU_C.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Add_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Add_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Add_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/CMP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CMP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Combine_BranchAddr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Combine_BranchAddr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/EX_MEM_REG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM_REG
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Forwarding.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Forwarding_ex
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Hazard.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hazard
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/ID_EX_REG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX_REG
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/IF_ID_REG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID_REG
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MEM_WB_REG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB_REG
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX3_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX3_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX3_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX3_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registers
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/SHL16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SHL16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/SHL2_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SHL2_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/And.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module And
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/cmb_addr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module combine_PCaddress
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/control/ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/dm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dm_8k
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/ext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sign_extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/im.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module im_8k
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/z_ext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zero_extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/mips.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/Forwarding_id.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Forwarding_id
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX3_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX3_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX3_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX3_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/DMExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MAD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MAD
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/datapath/MUX_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/12875/CPU_vivado/project_4_CPU_pipeline/project_4_CPU_pipeline.srcs/sim_1/new/mips_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_tb
